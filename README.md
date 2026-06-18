@@ -5,10 +5,6 @@
 - 支持 Cursor 高级模型使用
 - 一键开启 / 关闭本地服务，无感换号
 
-### 扫码加 QQ 群(不要搜索群号)
-
-<img width="260" alt="QQ群二维码" src="https://github.com/user-attachments/assets/f407b86e-7c7c-4a18-98aa-17c7dde87508" />
-
 ## 快捷下载
 
 前往 [Releases](https://github.com/agentcodee/cursorultra/releases) 下载对应系统安装包。
